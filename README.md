@@ -1,4 +1,4 @@
-![alexander](https://github.com/PURAT/PURAT/blob/master/alex_logo.png)
+![alexander](https://github.com/PURAT/PURAT/blob/master/text.gif)
 
 <!--
 **PURAT/PURAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
